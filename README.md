@@ -1,6 +1,6 @@
 # Project_Compass_web3
 ## A DeFi AI-Based Portfolio and Risk Management System
-
+[Live Demo](https://ai-investment-22o3.vercel.app/)
 This repository provides an implementation of a decentralized finance (DeFi) platform powered by both classical and quantum AI models for portfolio optimization, risk assessment, and automated smart contract interactions.
 
 ## System Architecture Overview
