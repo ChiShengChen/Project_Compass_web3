@@ -77,9 +77,3 @@ The system architecture is composed of several layers, each serving a specific r
 - Exploration of advanced quantum algorithms for further optimization.
 - Enhanced user interfaces with real-time data visualizations.
 
-## Installation and Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-repo/defi-ai-portfolio-management.git
-   cd defi-ai-portfolio-management
